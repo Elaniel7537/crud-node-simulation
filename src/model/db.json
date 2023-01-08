@@ -1,0 +1,22 @@
+{
+  "alumnos": [
+    {
+      "id": "0001",
+      "name": "Daniel ELver",
+      "cedula": "24773358",
+      "edad": "26"
+    },
+    {
+      "id": "0002",
+      "name": "Joice Rodriguez",
+      "cedula": "24773358",
+      "edad": "26"
+    },
+    {
+      "id": "0003",
+      "name": "Angelica Mejia",
+      "cedula": "24773358",
+      "edad": "26"
+    }
+  ]
+}
